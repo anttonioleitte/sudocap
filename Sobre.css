@@ -48,31 +48,15 @@
   margin: 0;
 }
 
-.u-section-1 .u-text-2 {
-  margin: 20px 0 0;
-}
-
 .u-section-1 .u-btn-1 {
-  border-style: solid;
-  font-weight: 400;
-  padding: 0;
-}
-
-.u-section-1 .u-btn-2 {
   font-weight: 700;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
   --bottom-right-radius: 30px;
   --top-left-radius: 30px;
-  margin: 30px auto 0 0;
+  margin: 20px auto 0 0;
   padding: 23px 61px 24px 59px;
-}
-
-.u-section-1 .u-icon-1 {
-  font-size: 1.2858em;
-  margin-left: 0;
-  vertical-align: -1px;
 }
 
 @media (max-width: 1199px) {
